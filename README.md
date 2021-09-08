@@ -1,7 +1,9 @@
 # advanced-reactjs-dio
 
-Curso avançado de ReactJS - Digital Innovation One
+## Curso avançado de ReactJS - Digital Innovation One
 
+### Bruno Carneiro
+### Arquiteto Front-End
 
 ## Aula 01
 - [Ciclo de Vida](./life-cycle)
